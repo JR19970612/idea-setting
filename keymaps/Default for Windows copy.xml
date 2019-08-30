@@ -1,1 +1,8 @@
-<keymap version="1" name="Default for Windows copy" parent="$default" />
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+</keymap>
