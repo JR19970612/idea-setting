@@ -1,0 +1,165 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>HTML</id>
+              </State>
+              <State>
+                <id>Invalid elementsCSS</id>
+              </State>
+              <State>
+                <id>JSP</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 9Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>OtherGroovy</id>
+              </State>
+              <State>
+                <id>PerformanceJava</id>
+              </State>
+              <State>
+                <id>Play</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>SecurityJava</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring CoreSpring</id>
+              </State>
+              <State>
+                <id>Spring DataSpring</id>
+              </State>
+              <State>
+                <id>Style issuesKotlin</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
+                <id>XMLSpring CoreSpring</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SizeReplaceableByIsEmpty</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Libraries" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AdvancedConfigurable" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

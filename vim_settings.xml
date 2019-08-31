@@ -1,0 +1,292 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/resources/application.yaml" timestamp="1552401116934">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="11" column="21" />
+      </file>
+      <file name="/Volumes/Work/Code/Java/WorkPlace/DataProcess/src/a.java" timestamp="1567244500532">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="3" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/springboot/src/test/java/com/jr/springboot/LinkedList.java" timestamp="1552664810274">
+        <mark key="[" line="21" column="32" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/dao/IAlbumDao.java" timestamp="1552124280281">
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/controller/AlbumController.java" timestamp="1552199540871">
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="34" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1567244483305">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/entitys/Album.java" timestamp="1552218597002">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/utils/PhotoUtil.java" timestamp="1552401014947">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/springboot/src/main/java/com/jr/springboot/LinkedList.java" timestamp="1552669282093">
+        <mark key="[" line="138" column="32" />
+        <mark key="]" line="138" column="32" />
+        <mark key="." line="138" column="32" />
+        <mark key="^" line="133" column="32" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/RabbitMQ_Code/rabbitmq-springboot-consumer/src/main/java/com/bfxy/springboot/conusmer/RabbitReceiver.java" timestamp="1552211933871">
+        <mark key="[" line="28" column="68" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/controller/PhotoController.java" timestamp="1552236876746">
+        <mark key="[" line="58" column="50" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/pom.xml" timestamp="1552322544078">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1567244482069">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/EnvironmentMonitoring/src/main/java/com/gzhaibaogd/environment/controller/LoginController.java" timestamp="1555233972657">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552401888787">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/entitys/Photo.java" timestamp="1552218647439">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/config/WebConfig.java" timestamp="1552322436701">
+        <mark key="[" line="16" column="84" />
+      </file>
+      <file name="/Volumes/Work/Code/Java/WorkPlace/DataProcess/src/utlis/DataProcess.java" timestamp="1567244509514">
+        <mark key="'" line="48" column="44" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="/Volumes/Work/Code/Java/WorkPlace/DataProcess/src/Main.java" timestamp="1567223950296">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="7" column="51" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/interceptor/ExceptionInterceptor.java" timestamp="1552154454374">
+        <mark key="[" line="23" column="16" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/dao/IPhotoDao.java" timestamp="1552136995077">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1567244483602">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/RabbitMQ_Code/rabbitmq-spring/src/test/java/com/bfxy/spring/ApplicationTests.java" timestamp="1551973340943">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/service/imp/PhotoServiceImp.java" timestamp="1552220842737">
+        <mark key="'" line="109" column="26" />
+        <mark key="]" line="120" column="78" />
+        <mark key="." line="120" column="71" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/PhotoApplication.java" timestamp="1552322560338">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="3" column="70" />
+        <mark key="." line="3" column="70" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/RabbitMQ_Code/demo/pom.xml" timestamp="1552319235543">
+        <mark key="[" line="21" column="17" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/test/java/com/jr/photo/dao/IPhotoDaoTest.java" timestamp="1552137002725">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/service/IAlbumService.java" timestamp="1552143166035">
+        <mark key="[" line="22" column="0" />
+      </file>
+      <file name="/Volumes/办公/Code/Java/WorkPlace/hxz/src/test/java/com/jr/photo/dao/IAlbumDaoTest.java" timestamp="1552040243162">
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1552664823348">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="11" column="67" filename="/Volumes/办公/Code/Java/WorkPlace/RabbitMQ_Code/rabbitmq-api/src/main/java/com/bfxy/rabbitmq/quickstart/Procuder.java" />
+      <jump line="14" column="4" filename="/Volumes/办公/Code/Java/WorkPlace/RabbitMQ_Code/rabbitmq-api/src/main/java/com/bfxy/rabbitmq/quickstart/Consumer.java" />
+      <jump line="0" column="0" filename="/Volumes/办公/Code/Java/WorkPlace/RabbitMQ_Code/rabbitmq-api/src/main/java/com/bfxy/rabbitmq/quickstart/Consumer.java" />
+      <jump line="0" column="0" filename="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/bean/ExceptionBean.java" />
+      <jump line="49" column="26" filename="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/service/imp/AlbumServiceImp.java" />
+      <jump line="90" column="26" filename="/Volumes/办公/Code/Java/WorkPlace/hxz/src/main/java/com/jr/photo/service/imp/PhotoServiceImp.java" />
+      <jump line="42" column="44" filename="/Volumes/Work/Code/Java/WorkPlace/DataProcess/src/utlis/DataProcess.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>/**
+ * @Author a
+ * @Description TODO
+ * @Date 2019-08-31 17:41
+ * @Version 1.0
+ **/</text>
+      </register>
+      <register name="-" type="4">
+        <text>encodeData</text>
+      </register>
+      <register name="/" type="4">
+        <text>gbk</text>
+      </register>
+      <register name="0" type="4">
+        <text>/**
+ * @Author a
+ * @Description TODO
+ * @Date 2019-08-31 17:41
+ * @Version 1.0
+ **/</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICogQFRpdGxlIEpSCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly/ojrflj5ZpbmRleDAy55qE5LiL5LiA5Liq6IqC54K5CiAgICAgICAgICAgICAgICBMaXN0Tm9kZSBpbmRleDAy55qE5LiL5LiA5Liq6IqC54K5ID0gaGVhZDsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkxID0gMDsgaTEgPCBpbmRleDAyOyBpMSsrKSB7CgogICAgICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgTGlzdE5vZGUgaW5kZXgwMeeahOS4i+S4gOS4quiKgueCuTs=</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+        </keys>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmE6IDE=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICByZWFsUGF0aCA9OwogICAgICAgIHJlYWxQYXRoID07</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5oaWJlcm5hdGU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmhpYmVybmF0ZS12YWxpZGF0b3I8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMi4wLkZpbmFsPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhpYmVybmF0ZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLXZhbGlkYXRvci1hbm5vdGF0aW9uLXByb2Nlc3NvcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC4yLjAuRmluYWw8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5qYXZheC52YWxpZGF0aW9uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD52YWxpZGF0aW9uLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuaGliZXJuYXRlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5oaWJlcm5hdGUtdmFsaWRhdG9yPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>gbk</last-search>
+      <last-offset />
+      <last-pattern>gbk</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>gbk</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set num</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
